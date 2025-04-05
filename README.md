@@ -1,7 +1,7 @@
 # Intel® Unnati Industrial Training 2025 - Bug Detection and Fixing
 
 🔗 **See how our model performs**: [Buggy Code Fixer 2.0 on Hugging Face](https://huggingface.co/spaces/Eleuther/buggy-code-fixer_2.0)
-
+(https://huggingface.co/spaces/Eleuther/buggy-code-fixer_2.0)
 ## Problem Statement 1: Bug Detection and Fixing
 
 ## Project Overview
